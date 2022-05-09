@@ -3,3 +3,15 @@
 * Año: 2022
 * Desc: CSS customizado para ajustes.
 */
+
+.imgTabla {
+    max-width: 100px;
+}
+
+.noDisponible {
+    color:red
+}
+
+.tdNoDisponible {
+    background-color: rgb(226, 226, 226);
+}
